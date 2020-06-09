@@ -1,0 +1,17 @@
+tensorflow==2.2.0
+gym==0.17.2
+
+#
+# virtual graphics card
+#
+# also needs on sytem level: apt-get install -y xvfb x11-utils
+pyvirtualdisplay==0.2.*
+PyOpenGL==3.1.*
+PyOpenGL-accelerate==3.1.*
+
+#
+# Jupyter
+#
+jupyter==1.0.0
+notebook==6.0.3
+jupyterlab==2.1.4
