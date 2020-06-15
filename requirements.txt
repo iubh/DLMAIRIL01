@@ -1,6 +1,7 @@
 tensorflow==2.2.0
 gym==0.17.2
 
+matplotlib==3.2.1
 #
 # virtual graphics card
 #
