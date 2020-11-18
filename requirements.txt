@@ -14,5 +14,5 @@ PyOpenGL-accelerate==3.1.*
 # Jupyter
 #
 jupyter==1.0.0
-notebook==6.0.3
+notebook==6.1.5
 jupyterlab==2.1.4
