@@ -10,4 +10,4 @@ PyOpenGL-accelerate==3.1.*
 
 # jupyter
 ipywidgets==7.5.1
-jupyterlab==2.2.9
+jupyterlab==2.2.10
